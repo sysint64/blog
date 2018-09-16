@@ -1,0 +1,21 @@
+baseURL = "https://andrey.kabylin.ru/"
+languageCode = "en-us"
+title = "Andrey Kabylin Blog"
+theme = "kiss"
+
+[params.rss]
+includeContent = true # Includes whole content in rss
+authorName = "Andrey Kabylin" # Author full name
+authorEmail = "andrey@kabylin.ru" # Author email
+
+[params.social]
+github = "sysint64"
+email = "andrey@kabylin.ru"
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = "//andrey.kabylin.ru/"
+
+[taxonomies]
+android = "android"
+cryptoChat = "crypto-chat"
